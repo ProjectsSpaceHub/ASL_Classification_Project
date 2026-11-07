@@ -70,6 +70,15 @@ A Gradio interface was built to make the model easier to test. The interface sup
 * Scikit-learn
 * Gradio
 
+## Team Members
+
+| Team Member | GitHub |
+|-------------|--------|
+| Rahaf Saadeddin | [@soyrahaf](https://github.com/soyrahaf) |
+| Maram Alhajri | [@vmmci](https://github.com/vmmci) |
+| Renad Hazazi | [@RENADBHAI](https://github.com/RENADBHAI) |
+| Ghala Hazazi | [@Ghalaxxx](https://github.com/Ghalaxxx) |
+
 ## Project Status
 
 Completed as an academic computer vision project and prepared for portfolio presentation.
